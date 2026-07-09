@@ -25,6 +25,20 @@ From Software, through DevOps, to Founding Engineer, I enjoy every part of the c
 - DevSecOps / Kubernetes / ArgoCD
 - Integrating AI features
 
+## Selected Work 
+
+- Meal Maestro
+
+https://meal-maestro.rtz-developments.com
+
+A simple side project I've built to help myself meal planning and shopping. I aim to enrich it with a autonomous shopping feature where it an AI agent would build the shopping cart for my week on the shop of my choice. 
+- Balcony Garden Monitoring
+
+https://soil-moisture.rtz-developments.com
+
+Simple balcony garden monitoring system, leveraging a DIY soil moisture probe built with RPI Zero 2 using a Resistive approach sending observations to TimescaleDB.
+The resistive approach having shown its limits, I plan on redeploying a new set of probes based on a capacitive approach instead.
+  
 ### 🕗 Off the clock
 
 DIY Electronics, Homelab, Balcony gardening, and the occasional over-engineered Raspberry Pi project.
