@@ -17,27 +17,35 @@ Here are some ideas to get you started:
 
 From Software, through DevOps, to Founding Engineer, I enjoy every part of the chain, from first commit to production on the edge.
 
-## ⚡ Stuff I like to do / work with 
+## ⭐️ Selected Work 
 
-- Kotlin JVM (Vert.x / Ktor / Exposed / SQLDelight) & Multiplatform
-- Typescript / Bun
-- React / NextJS
-- DevSecOps / Kubernetes / ArgoCD
-- Integrating AI features
+- Agoredo
 
-## Selected Work 
+https://agoredo.rtz-developments.com
+
+An online order booking platform for small food merchants emphasizing simplcity and user experience
 
 - Meal Maestro
 
 https://meal-maestro.rtz-developments.com
 
-A simple side project I've built to help myself meal planning and shopping. I aim to enrich it with a autonomous shopping feature where it an AI agent would build the shopping cart for my week on the shop of my choice. 
+A straightforward meal planning and shopping application featuring agentic shopping through a Chrome extension.
+
 - Balcony Garden Monitoring
 
 https://soil-moisture.rtz-developments.com
 
-Simple balcony garden monitoring system, leveraging a DIY soil moisture probe built with RPI Zero 2 using a Resistive approach sending observations to TimescaleDB.
+Simple balcony garden monitoring system, leveraging a DIY soil moisture probe built with RPI Zero 2 using a resistive approach that pushes observations to InfluxDB.
 The resistive approach having shown its limits, I plan on redeploying a new set of probes based on a capacitive approach instead.
+
+## ⚡ Stuff I like to do / work with 
+
+- Kotlin JVM (Vert.x / Ktor / Exposed / SQLDelight) & Multiplatform
+- Typescript / Bun
+- React / NextJS
+- DevSecOps Pipelines
+- IaC (Terraform / Ansible / Kubernetes / ArgoCD)
+- Applied AI and building agents
   
 ### 🕗 Off the clock
 
