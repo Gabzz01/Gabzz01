@@ -21,7 +21,7 @@ From Software, through DevOps, to Founding Engineer, I enjoy every part of the c
 
 - Agoredo
 
-https://agoredo.rtz-developments.com
+https://agoredo.com
 
 An online order booking platform for small food merchants emphasizing simplcity and user experience
 
